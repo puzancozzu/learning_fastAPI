@@ -32,8 +32,4 @@ uvicorn main:app --reload
 - App URL: http://127.0.0.1:8000
 - API Docs (Swagger UI): http://127.0.0.1:8000/docs
 - Redoc Docs: http://127.0.0.1:8000/redoc
-
-
 ```
-
-
